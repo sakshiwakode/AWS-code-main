@@ -1,5 +1,1 @@
-print("hi")
-sudo su
-
-     
 
