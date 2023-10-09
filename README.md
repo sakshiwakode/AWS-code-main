@@ -2,7 +2,7 @@
 AWS python code for application
 # FOR LINUX use:
      $ sudo yum update -y
-# -------> for sql client
+------> for sql client
      $ sudo yum install mysql -y
 ------> For python and related frameworks
      $ sudo yum install python3 -y
@@ -13,15 +13,15 @@ AWS python code for application
      $ sudo python3 EmpApp.py
 
 # for ubuntu use
-     $ sudo apt-get update \n
+     $ sudo apt-get update
 ------> for sql client
-     $ sudo apt-get install mysql-client \n
+     $ sudo apt-get install mysql-client 
 --------> For python and related frameworks
-     $ sudo apt-get install python3  \n
-     $ sudo apt-get install python3-flask \n
-     $ sudo apt-get install python3-pymysql \n
-     $ sudo apt-get install python3-boto3 \n
+     $ sudo apt-get install python3
+     $ sudo apt-get install python3-flask
+     $ sudo apt-get install python3-pymysql
+     $ sudo apt-get install python3-boto3
 -------> For running application 
 
-    $ sudo python3 EmpApp.py \n
+    $ sudo python3 EmpApp.py
 
