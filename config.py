@@ -1,0 +1,6 @@
+customhost = "RDS-endpoint"
+customuser = "RDS-username"
+custompass = "RDS-password"
+customdb = "DB-name"
+custombucket = "S3-bucketname"
+customregion = "us-east-1"
